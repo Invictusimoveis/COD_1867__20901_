@@ -1,0 +1,42 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_6A7BE1A7_7AE6_BB44_41D4_2BF17CDDABF3.label = Entra
+panorama_7DB8D4A5_7761_C3BE_41C2_BA5F621F763A.label = Lavabo
+panorama_7DBB0CC8_7761_C3F6_41D2_BD2F370A0897.label = Sala de projeçaão
+panorama_7DB96087_7760_427A_41C0_96C075936553.label = acesso_serviço
+panorama_7DB9BC6D_7760_428E_41DC_E80CD3512FDE.label = banheio serviço
+panorama_7DBB3ECD_7760_DF89_41CB_6C324611C9EA.label = churrasqueira
+panorama_7DBBF141_7761_C2F6_41C4_A6AB4C0E907A.label = copa
+panorama_7DB91889_7760_4276_41DA_65A8A9B0FA56.label = corredor 2
+panorama_7DB99487_7760_427A_41AF_8C1B210C0A27.label = corredor 3
+panorama_7DB8B12A_7760_428A_41CF_28828AE7D347.label = corredor_1
+panorama_7DBB955C_7761_C28E_41DC_D9C9CCA446AD.label = cozinha
+panorama_7DBBD98F_7761_C58A_41D1_47AC0BDE11B4.label = cozinha_serviço
+panorama_7DB95C89_7760_4389_418C_3E22A6345DBD.label = escritório
+panorama_7DB9EB91_7760_4596_41D4_867546087E95.label = master
+panorama_7DB9B063_7760_42BA_41DD_0FBCB5C0221E.label = master banheiro
+panorama_7DB9E788_7760_4E76_41A0_F37E3734BAE4.label = master_hidro
+panorama_6D9E12D3_7B2A_F922_41DD_21045480AA7E.label = sacada master
+panorama_7DBB24FE_7761_C38A_41A8_EDB3AE7507A5.label = sala
+panorama_7DBB50D9_7761_C396_419D_4844FBF80FD3.label = sala_cozinha
+panorama_7DBBBD27_7761_C2BA_41B5_6B6165D1BBFA.label = sala_lareira
+panorama_7DBBFDAB_7761_DD8A_41D0_844F7993E2E7.label = serviço
+panorama_7B372A07_7760_C67A_41DA_1EF45E7E2152.label = sui_rosa_ban
+panorama_7DB9C5A7_7760_4DBA_41D4_C124E8919B1F.label = suit azul_varanda
+panorama_7DB9786B_7760_428A_41C1_9ED858745FEC.label = suit_azul
+panorama_7DB9A45A_7760_428B_41CF_70740C8723CE.label = suit_azul_banh
+panorama_7DB9D385_7760_467E_41D1_118FCF6E7DB6.label = suit_rosa
+panorama_7DB9EF07_7760_5E7A_41D7_A056B4D2ED62.label = suit_rosa-acesso banho
+panorama_7DB98356_7760_C69A_4198_54078BBF73D5.label = varanda _churras
+panorama_7DB82C9B_7760_C38A_41DB_D8298FDF3F32.label = varanda_sala
+panorama_7DB927FB_7760_CD8A_41D4_0FF59915331B.label = varanda_vista
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 1867__20901_
